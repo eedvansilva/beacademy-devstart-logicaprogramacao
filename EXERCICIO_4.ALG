@@ -10,8 +10,7 @@ Var
      imc:real
 
 Inicio
- escreva ("Digite seu nome: ")
-        leia (nome)
+
 
         escreva ("Digite seu peso: ")
         leia (peso)
@@ -26,32 +25,33 @@ Inicio
 
        SE (imc<19) ENTAO
 
-            escreval (nome , ", Você está Abaixo do peso" )
-            
 
-       SENAO
-       SE(imc<=19) e (imc<25) ENTAO
-           escreval (nome , ", Seu peso está Normal" )
-
-
+            ESCREVA ("Você está Abaixo do peso" )
 
 
        SENAO
-       SE(imc>=25) e (imc <30) ENTAO
-            escreval (nome , ", Você está com Sobrepeso" )
+       SE (imc<=19) e (imc<25) ENTAO
+           ESCREVA ("Seu peso está Normal" )
+
+
+
+
+       SENAO
+       SE (imc>=25) e (imc <30) ENTAO
+            ESCREVA (nome , ", Você está com Sobrepeso" )
 
 
       SENAO
-       SE(imc>=30)e(imc <40) ENTAO
-            escreval (nome , ", Você com obesidade Tipo|" )
+       SE( imc>=30) e (imc <40) ENTAO
+            ESCREVA ("Você com obesidade Tipo|" )
 
 
 
 
 
         SENAO
-       SE(imc>=40) ENTAO
-            escreval (nome , ", Você está obesidade Mórbida" )
+       SE (imc>=40) ENTAO
+            ESCREVA ("Você está obesidade Mórbida" )
 
 
          FIMSE
