@@ -12,7 +12,7 @@ UTILIZANDO O VISUALG
 ## 🚀 Sobre mim
 
 
-Sou estudante de Sistemas Para Intenet.
+Sou estudante de Sistemas Para Internet.
 Possuo conhecimentos básicos em PHP, Wordpress, HTML,  e CSS.
 
 ## Documentação
