@@ -13,7 +13,7 @@ Inicio
              
 
              para i de 1 ate tabuada faca
-             escreval( i, " X ", tabuada, " = " ,(10 * i))
+             escreval( i, " X ", tabuada, " = " ,(tabuada * i))
 
 
                 fimpara
