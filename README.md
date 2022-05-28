@@ -58,3 +58,5 @@ Possuo conhecimentos básicos em PHP, Wordpress, HTML,  e CSS.
 [EXERCICIO_20](https://github.com/eedvansilva/beacademy-devstart-logicaprogramacao/blob/f746b17d4685b23054b6d2c0d88d06486e9f819a/EXERCICIO_20.ALG)
 
 [EXERCICIO_21](https://github.com/eedvansilva/beacademy-devstart-logicaprogramacao/blob/bc0147dd10ec423ed1464bc7c3ae7d937bc5b09f/EXERCICIO_21.ALG)
+
+[EXERCICIO_22](https://github.com/eedvansilva/beacademy-devstart-logicaprogramacao/blob/43b8689e0da2ea67a270372d6291107dd76d165b/EXERCICIO_22.ALG)
